@@ -1,0 +1,12 @@
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.csproj.AssemblyReference.cache
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.OyGiris.resources
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.Grafikler.resources
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.Properties.Resources.resources
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.csproj.GenerateResource.cache
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\bin\Debug\Seçim_Uygulama.exe.config
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\bin\Debug\Seçim_Uygulama.exe
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\bin\Debug\Seçim_Uygulama.pdb
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.exe
+C:\Users\dilan\OneDrive\Masaüstü\Seçim_Uygulama\obj\Debug\Seçim_Uygulama.pdb
